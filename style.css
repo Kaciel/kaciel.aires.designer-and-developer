@@ -4,7 +4,13 @@ body {
     
 }
 
-.class {
+.body {
     opacity: 0,2;
+
+}
+
+.capa {
+width: 100%;
+
 
 }
