@@ -1,0 +1,6 @@
+body {
+    background-attachment: fixed;
+    background-image: url(/img/background-GRANDE.jpg);
+    opacity: 0,2;
+    background-color: gray;
+}
