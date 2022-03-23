@@ -57,3 +57,7 @@ nav {
     padding: 10%;
     margin: 10%;
 }
+
+.nav {
+    align-items: left;
+}
