@@ -36,5 +36,12 @@ footer {
     background-color: #303331;
     color: white;
     text-align: left;
-    padding: 50px;
+    padding: 40px;
+
+}
+
+nav {
+    color: white;
+    box-align: left;
+    
 }
