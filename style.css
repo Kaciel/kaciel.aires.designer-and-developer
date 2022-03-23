@@ -49,14 +49,12 @@ footer {
     display: none;
 }
 
-nav {
-    margin-right: 40px;
-}
+
 
 .conteudo-d-div {
    
 }
 
 .nav {
-    align-items: left;
+    float: left;
 }
