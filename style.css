@@ -12,7 +12,7 @@ scrollbar-width: none;
 a {
     text-decoration: none;
     color: dimgrey;
-
+    font-weight: bold;
 }
 
 a:hover {
@@ -45,4 +45,6 @@ footer {
     text-align: left;
 }
 
-::-webkit-scrollbar:disabled;
+::-webkit-scrollbar {
+    display: none;
+}
