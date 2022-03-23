@@ -22,3 +22,9 @@ a:hover {
 a:active {
     color: dimgray;
 }
+
+footer {
+    background-color: dimgray;
+    color: white;
+    text-align: center;
+}
