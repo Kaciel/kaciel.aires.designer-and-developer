@@ -4,8 +4,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: dimgray;
 background-color: white;
     
-scrollbar-width: none;
-    
+
 }
 
 
@@ -37,6 +36,7 @@ footer {
     color: white;
     padding: 30px;
     font-weight: bold;
+    font-size: medium;
     
 
 }
