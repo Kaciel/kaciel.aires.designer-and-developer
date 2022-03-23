@@ -48,3 +48,7 @@ footer {
 ::-webkit-scrollbar {
     display: none;
 }
+
+nav {
+    margin-right: 40px;
+}
