@@ -34,11 +34,11 @@ footer {
 }
 
 #menu-principal {
-    background-color: #303331;
-    color: white;
+    background-color: #ffffff;
+    color: dimgray;
     padding: 40px;
     font-weight: bold;
-    font-size: medium;
+    font-size: small;
     
 
 }
