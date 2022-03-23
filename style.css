@@ -31,3 +31,9 @@ footer {
     padding-bottom: 30px;
     margin-top: 60px;
 }
+
+#menu-principal {
+    background-color: #303331;
+    color: white;
+    text-align: right;
+}
