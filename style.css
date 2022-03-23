@@ -23,7 +23,7 @@ a:active {
 }
 
 footer {
-    background-color: dimgray;
+    background-color: #9DC31A;
     color: white;
     text-align: center;
     padding-top: 30px;
@@ -34,7 +34,7 @@ footer {
 #menu-principal {
     background-color: #303331;
     color: white;
-    padding: 30px;
+    padding: 40px;
     font-weight: bold;
     font-size: medium;
     
