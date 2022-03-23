@@ -10,7 +10,7 @@ background-color: white;
 
 a {
     text-decoration: none;
-    color: dimgrey;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -19,7 +19,7 @@ a:hover {
 }
 
 a:active {
-    color: dimgray;
+    color: #ffffff;
 }
 
 footer {
