@@ -46,9 +46,7 @@ footer {
 
 }
 
-#op-menu {
-    text-align: left;
-}
+
 
 ::-webkit-scrollbar {
     display: none;
@@ -59,9 +57,5 @@ footer {
 .conteudo-d-div {
    padding: 30px;
    margin: auto;
-}
-
-.nav {
-    margin-right: 30px;
 }
 
