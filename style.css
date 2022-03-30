@@ -35,6 +35,10 @@ footer {
 .conteudo-d-div {
    padding: 30px;
    margin: auto;
-   border-radius: 30px;
+   justify-content: center;
+   
 }
 
+.img-conteudo {
+    border-radius: 30px;
+}
