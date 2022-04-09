@@ -20,5 +20,12 @@ footer {
     display: none;
 }
 
+a {
+    font-weight: bold;
+    
+}
 
+a:hover {
+    color: #9DC31A;
+}
 
