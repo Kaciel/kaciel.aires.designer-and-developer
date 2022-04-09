@@ -25,7 +25,10 @@ a {
     
 }
 
-a:hover {
+a:over {
     color: #9DC31A;
 }
 
+a:active {
+    font-weight: bolder;
+}
