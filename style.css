@@ -7,10 +7,6 @@ footer {
     margin-top: 60px;
 }
 
-nav {
-    position: fixed;
-}
-
 
 #home {
     background: #9DC31A;
@@ -28,10 +24,4 @@ a {
     
 }
 
-a:over {
-    color: #9DC31A;
-}
 
-a:active {
-    font-weight: bolder;
-}
