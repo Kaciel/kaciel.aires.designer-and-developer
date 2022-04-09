@@ -7,6 +7,10 @@ footer {
     margin-top: 60px;
 }
 
+.caixa {
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
 
 #home {
     background: #9DC31A;
