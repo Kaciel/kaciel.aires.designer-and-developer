@@ -40,11 +40,11 @@ a {
 
 @font-face {
     font-family: "Square721";
-    src: url( Square721 Cn BT Roman.ttf.__meta__);
+    src: url( Square721 Cn BT Roman.ttf);
 
-    body {
-    font-family: Square721;
-    }
-    
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
