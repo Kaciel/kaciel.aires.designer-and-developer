@@ -1,7 +1,6 @@
-body {
-     
+html {
+    font-family: square721 ;
 }
-
 
 footer {
     background-color: #9DC31A;
@@ -10,6 +9,7 @@ footer {
     padding-top: 30px;
     padding-bottom: 30px;
     margin-top: 60px;
+    
 }
 
 
@@ -39,7 +39,7 @@ a {
 }
 
 @font-face {
-    font-family: "Square721 BT";
-    src: url( ../font);
+    font-family: "Square721";
+    src: url( ../font/Square721 Cn BT Roman.ttf.__meta__);
 }
 
