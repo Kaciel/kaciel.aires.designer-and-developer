@@ -1,6 +1,3 @@
-html {
-    font-family: square721 ;
-}
 
 footer {
     background-color: #9fff05;
@@ -13,9 +10,7 @@ footer {
 }
 
 
-.cnpj {
-    font-size: 0,5em;
-}
+
 
 .caixa {
     padding: 80px 0px;
@@ -23,8 +18,11 @@ footer {
 }
 
 #home {
-    background: #583563;
     color: #f4faff;
+    background: url(office-932926.jpg);
+    background-size: contain;
+        
+    
 }
 
 
@@ -38,14 +36,11 @@ a {
     
 }
 
-@font-face {
-    font-family: "Square721";
-    src: url( Square721 Cn BT Roman.ttf);
-    
 
-}
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e0dddd;
+
 }
 
