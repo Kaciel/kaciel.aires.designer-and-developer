@@ -21,7 +21,7 @@ footer {
     color: #f4faff;
     background: url(office-932926.jpg);
     background-size: contain;
-        
+   
     
 }
 
@@ -44,3 +44,12 @@ body {
 
 }
 
+.corverdetexto {
+    color: #9fff05;
+    background-color: #333333;
+}
+
+.corrochotexto {
+    color: #583563;
+    background-color: #333333;
+}
